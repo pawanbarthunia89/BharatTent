@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: bharat-db
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Diit
+Implementation-Vendor-Id: com.bharat
+Build-Jdk: 1.8.0_92
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/bharat-db
+Created-By: Maven Integration for Eclipse
+
